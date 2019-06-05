@@ -151,7 +151,7 @@ async def DubbleUp(ctx,arg):
 
 
 
-
+#Test
 @client.command(name = "CoinFlip", description = "Flip the coin, guess if its head or tale "
     ,brief = "Guess if its head or tail",aliases = ["headortail","HeadsOrTails","coinflip","HeadOrTails"], pass_context=True)
 async def HeadOrTails(ctx,arg):
