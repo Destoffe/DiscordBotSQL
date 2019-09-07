@@ -8,7 +8,7 @@ from discord.ext.commands.cooldowns import BucketType
 from discord.ext import commands
 
 BOT_PREFIX = ("?", "!")
-TOKEN = "NTAzOTgyNjMzMjAyNzQ1MzQ3.Dq-mqw.Q8kfAR4eCqw-UYPaijaJI52qdXI"  # Get at discordapp.com/developers/applications/me
+TOKEN = "Yor Token"
 
 connection = sqlite3.connect("data.db")
 cursor = connection.cursor()
